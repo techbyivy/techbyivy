@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Software developer focused on full-stack web development and database optimization
+Full-stack web developer and BBIT graduate focused on building scalable web applications
 
 🔭 &nbsp;I'm currently working on **web-based management systems &amp; responsive full-stack applications**  
 🌱 &nbsp;I'm currently learning **cloud-ready architectures and Git-based CI/CD workflows**  
@@ -75,18 +75,3 @@ Software developer focused on full-stack web development and database optimizati
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/techbyivy">techbyivy</a></i></p>
-
-<!--
-**techbyivy/techbyivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
